@@ -44,7 +44,7 @@ npm run build
 
 ## Contributions are welcome and appreciated. To contribute:
 
-1. Fork the project.
+Fork the project.
 
 - **Create your feature branch**: (git checkout -b feature/AmazingFeature).
 - **Commit your changes**: (git commit -m 'Add some AmazingFeature').
